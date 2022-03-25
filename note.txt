@@ -1,0 +1,2 @@
+npm modal >https://www.npmjs.com/package/react-modal
+modal with css+js > https://codepen.io/claydiffrient/pen/KNjVrG
