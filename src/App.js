@@ -4,8 +4,7 @@ import React from 'react'
 function App() {
   return (
     <div>
-      <p>react app starter</p>
-      
+      <p>let's start our post comments routing project !!!</p>
     </div>
   );
 }
